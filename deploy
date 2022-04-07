@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName ARM-RG -TemplateFile C:\Users\Bhuvan\Downloads\template.json -TemplateParameterFile C:\Users\Bhuvan\Downloads\parametersFile.json
